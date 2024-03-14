@@ -163,3 +163,31 @@ Dies ist eine Liste nützlicher Links für Entwickler, die verschiedene Ressourc
 79. [VRSeat](https://vrseat.vercel.app/) - Eine Plattform zur Erstellung von virtuellen Sitzplänen und Veranstaltungsräumen.
 
 80. [glTF Project Explorer](https://github.khronos.org/glTF-Project-Explorer/) - Ein Tool zum Erkunden, Bearbeiten und Testen von glTF-Dateien, dem offenen Standard für 3D-Modelle und Szenen.
+81. 
+ # Tools
+
+81- https://neumorphism.io/#c2c2c2   (button-shadows)
+
+82- https://cssgradient.io/   (gradient-background) 
+
+83- https://formspree.io/   (form-data-store)
+
+84- https://www.figma.com/  (website-desing ) 
+
+85- https://9elements.github.io/fancy-border-radius/#50.50.50.50--. (border-radius-design)
+
+86-https://bennettfeely.com/clippy/  (clippy)
+
+87-https://html-css-js.com/css/generator/transform/ (trabsform genarator)
+
+88- https://cubic-bezier.com/#.17,.67,.83,.67 (cubuc-bezier)
+
+89- https://animista.net/ (animation-genarator)
+
+90- https://loading.io/  (loading-animation-icon)
+
+91- https://getbootstrap.com/ (boot-strap)
+
+92- https://get.foundation/sites/docs/ (boot-strap)
+
+93- https://semantic-ui.com/ (boot-strap)
