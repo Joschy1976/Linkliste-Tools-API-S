@@ -164,178 +164,182 @@ Dies ist eine Liste nützlicher Links für Entwickler, die verschiedene Ressourc
 
 80. [glTF Project Explorer](https://github.khronos.org/glTF-Project-Explorer/) - Ein Tool zum Erkunden, Bearbeiten und Testen von glTF-Dateien, dem offenen Standard für 3D-Modelle und Szenen.
  
- # Tools
+81. [Neumorphism.io - Button Shadows](https://neumorphism.io/#c2c2c2) - Eine Sammlung von Neumorphismus-Designs mit Schatten für Buttons.
 
-81. https://neumorphism.io/#c2c2c2   (button-shadows)
+82. [CSS Gradient](https://cssgradient.io/) - Ein Tool zum Erstellen von CSS-Gradientenhintergründen.
 
-82. https://cssgradient.io/   (gradient-background) 
+83. [Formspree](https://formspree.io/) - Ein Service zur Speicherung von Formulardaten.
 
-83. https://formspree.io/   (form-data-store)
+84. [Figma](https://www.figma.com/) - Eine Plattform für das Design von Websites und UI/UX-Projekten.
 
-84. https://www.figma.com/  (website-desing ) 
+85. [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/#50.50.50.50--) - Ein Tool zum Erstellen von ansprechenden Border-Radius-Designs.
 
-85. https://9elements.github.io/fancy-border-radius/#50.50.50.50--. (border-radius-design)
+86. [Clippy](https://bennettfeely.com/clippy/) - Ein Tool zum Erstellen von CSS-Clip-Pathen für individuelle Formen.
 
-86. https://bennettfeely.com/clippy/  (clippy)
+87. [Transform Generator](https://html-css-js.com/css/generator/transform/) - Ein Generator für CSS-Transformations-Eigenschaften.
 
-87. https://html-css-js.com/css/generator/transform/ (trabsform genarator)
+88. [Cubic Bezier](https://cubic-bezier.com/#.17,.67,.83,.67) - Ein Tool zum Erstellen von benutzerdefinierten Bezierkurven für CSS-Animationen.
 
-88. https://cubic-bezier.com/#.17,.67,.83,.67 (cubuc-bezier)
+89. [Animista](https://animista.net/) - Eine Sammlung von CSS-Animationen mit anpassbaren Parametern.
 
-89. https://animista.net/ (animation-genarator)
+90. [loading.io](https://loading.io/) - Eine Plattform für die Erstellung von animierten Ladeanimationen und -icons.
 
-90. https://loading.io/  (loading-animation-icon)
+91. [Bootstrap](https://getbootstrap.com/) - Ein beliebtes CSS-Framework für die Entwicklung responsiver Websites und Webanwendungen.
 
-91. https://getbootstrap.com/ (boot-strap)
+92. [Foundation](https://get.foundation/sites/docs/) - Eine Sammlung von Dokumentationen für das Foundation CSS-Framework.
 
-92. https://get.foundation/sites/docs/ (boot-strap)
+93. [Semantic UI](https://semantic-ui.com/) - Ein CSS-Framework für die Erstellung schöner und responsiver UI-Komponenten.
 
-93. https://semantic-ui.com/ (boot-strap)
+94. [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web) - Umfassende Dokumentationen für Webtechnologien und APIs von Mozilla.
 
-# Programming
+95. [W3C](https://www.w3.org/) - Offizielle Website des World Wide Web Consortium mit Webstandards und -richtlinien.
 
-## Documentation
+96. [The A11Y Project](https://www.a11yproject.com/) - Eine Ressource für barrierefreies Webdesign und Entwicklung.
 
-### Main Ressources
+97. [W3Schools](https://www.w3schools.com/) - Eine Online-Webentwicklungs-Ressource mit Tutorials und Referenzen.
 
-94. [mdn](https://developer.mozilla.org/en-US/)  
-95. [w3.org](https://www.w3.org/)  
-96. [a11yproject](https://www.a11yproject.com/)  
-97. [w3 schools](https://www.w3schools.com/)  
-98. [css tricks](https://css-tricks.com/)  
-99. [can I use](https://caniuse.com/)  
-100. [linux.org](https://www.linux.org/)  
-101. [stack overflow](https://stackoverflow.com/)  
-102. [devdocs.io](https://devdocs.io/)
+98. [CSS Tricks](https://css-tricks.com/) - Eine Website mit Tipps, Tricks und Tutorials rund um CSS und Webdesign.
 
-### Backend
+99. [Can I Use](https://caniuse.com/) - Eine Ressource, um die Browserkompatibilität von Webtechnologien zu überprüfen.
 
-103. [auth0](https://auth0.com/)  
-104. [cookie parser](https://www.npmjs.com/package/cookie-parser)  
-105. [express.js](http://expressjs.com/en/resources/middleware)  
-106. [helmet](https://helmetjs.github.io/)  
-107. [jwt](https://jwt.io/)  
-108. [morgan](https://www.npmjs.com/package/morgan)  
-109. [mysql](https://www.mysql.com/)  
-110. [postgrest](https://postgrest.org/en/stable/)
+100. [Linux.org](https://www.linux.org/) - Eine Community-Website für Linux-Benutzer und -Entwickler.
 
-### CSS
+101. [Stack Overflow](https://stackoverflow.com/) - Eine bekannte Plattform für Entwickler zum Austausch von Wissen und Lösung von Problemen.
 
-111. [atomic design](https://atomicdesign.bradfrost.com/table-of-contents/)
+102. [DevDocs](https://devdocs.io/) - Eine umfassende Sammlung von Entwicklerdokumentationen für verschiedene Technologien und Frameworks.
 
-112. [css reset](https://meyerweb.com/eric/tools/css/reset/)  
-113. [css reset -- modern](https://andy-bell.co.uk/a-modern-css-reset/)
+103. [Auth0](https://auth0.com/) - Eine Plattform für die Authentifizierung und Autorisierung von Benutzern in Webanwendungen.
 
-### \_\_frameworks
+104. [Cookie Parser](https://www.npmjs.com/package/cookie-parser) - Ein Node.js-Paket zur Analyse von Cookie-Headern in HTTP-Anfragen.
 
-114. [bootstrap](https://getbootstrap.com/)  
-115. [bulma](https://bulma.io/)  
-116. [tailwind](https://tailwindcss.com/)  
-117. [post css](https://postcss.org/)  
+105. [Express.js](https://expressjs.com/) - Ein beliebtes Webframework für Node.js zur Erstellung von Webanwendungen und APIs.
 
-### Git
+106. [Helmet](https://helmetjs.github.io/) - Ein Sicherheitsmiddleware für Express.js zum Schutz vor Webangriffen.
 
-118. [git](https://git-scm.com/doc)  
-119. [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/)  
-120. [git cheatsheet](https://ndpsoftware.com/git-cheatsheet.html#loc=index;)  
+107. [JWT](https://jwt.io/) - JSON Web Tokens (JWT) sind ein Industriestandard für sichere Token-basierte Authentifizierung.
 
-### Javascript
+108. [Morgan](https://github.com/expressjs/morgan) - Ein HTTP-Request-Logger für Node.js und Express.js.
 
-121. [e5 features](es6-features.org)  
-122. [eloquent javascript](https://eloquentjavascript.net/)  
-123. [javascript.info](https://javascript.info/)  
-124. [node.js](https://nodejs.org/en)
+109. [MySQL](https://www.mysql.com/) - Ein relationales Datenbankmanagementsystem.
 
-### \_\_bundlers
+110. [PostgreSQL](https://www.postgresql.org/) - Ein leistungsstarkes, objektrelationales Datenbankmanagementsystem.
 
-125. [bun](https://bun.sh/)  
-126. [parcel](https://en.parceljs.org/)  
-127. [rollup](https://rollupjs.org/)  
-128. [weback](https://webpack.js.org/)
+111. [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/) - Eine Methodik für das Design von Benutzeroberflächen, die auf modularen Komponenten basiert.
 
-### \_\_frontend-library
+112. [CSS Reset](https://meyerweb.com/eric/tools/css/reset/) - Ein CSS-Reset-Stylesheet zum Zurücksetzen der Standardstile für HTML-Elemente.
 
-129. [awesome vue](https://awesome-vue.js.org/)  
-130. [mui](https://mui.com/)  
-131. [react](https://react.dev/)  
-132. [vue](https://vuejs.org/)  
+113. [Modern CSS Reset](https://hankchizljaw.com/wrote/a-modern-css-reset/) - Ein modernes CSS-Reset-Stylesheet für die Entwicklung von Webseiten.
 
-### \_\_frameworks
+114. [Bootstrap](https://getbootstrap.com/) - Ein beliebtes CSS-Framework für die Entwicklung responsiver Websites und Webanwendungen.
 
-133. [angular](https://angular.io/)  
-134. [deno](https://fresh.deno.dev/)  
-135. [materialize](https://materializecss.com/)  
-136. [next](https://nextjs.org/)  
-137. [nuxt](https://nuxtjs.org/)  
-138. [svelte](https://svelte.dev/)  
+115. [Bulma](https://bulma.io/) - Ein modernes CSS-Framework für das Erstellen von benutzerdefinierten und sauberen Designs.
 
-### \_\_other
+116. [Tailwind CSS](https://tailwindcss.com/) - Ein Utility-First-CSS-Framework für das Erstellen von benutzerdefinierten Designs ohne CSS zu schreiben.
 
-#### -data
+117. [PostCSS](https://postcss.org/) - Ein Werkzeug zur Verarbeitung von CSS mit JavaScript-Plugins.
 
-139. [chart](https://chartscss.org/)  
-140. [d3](https://d3js.org/)
+118. [Git](https://git-scm.com/) - Ein verteiltes Versionskontrollsystem zur Verfolgung von Änderungen im Quellcode während der Entwicklung.
 
-#### -date
+119. [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) - Eine Spezifikation für Git-Commit-Nachrichten, um die Automatisierung und Versionsverwaltung zu verbessern.
 
-141. [date-fns](https://date-fns.org/)  
-142. [moment](https://momentjs.com/)
+120. [Git Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf) - Eine übersichtliche Referenz mit den häufigsten Git-Befehlen und Optionen.
 
-#### -payment
+121. [ECMAScript 5 Features](https://www.w3schools.com/js/js_es5.asp) - Eine Übersicht über die Funktionen und Syntaxänderungen in ECMAScript 5.
 
-143. [stripe](https://stripe.com/docs/js)  
-144. [paypal](https://developer.paypal.com/home/)
+122. [Eloquent JavaScript](https://eloquentjavascript.net/) - Ein kostenloses Buch, das die Grundlagen der JavaScript-Programmierung erklärt.
 
-#### -other
+123. [JavaScript.info](https://javascript.info/) - Eine umfassende Ressource für JavaScript-Tutorials und Referenzen.
 
-145. [phaser](https://phaser.io/)  
-146. [theater](https://www.theatrejs.com/)  
-147. [three](https://threejs.org)
+124. [Node.js](https://nodejs.org/) - Eine JavaScript-Laufzeitumgebung zur Ausführung von serverseitigem JavaScript-Code.
 
-### Markdown
+125. [Bun](https://www.npmjs.com/package/bun) - Ein Tool zur Bündelung von Node.js-Anwendungen für die Verteilung.
 
-148. [markdown guide](https://www.markdownguide.org)  
-149. [git emojis](https://gist.github.com/rxaviers/7360908)  
-150. [skill icons](https://github.com/tandpfun/skill-icons)  
-151. [stackedit](https://stackedit.io/)  
+126. [Parcel](https://parceljs.org/) - Ein schneller, nullkonfigurierbarer Paketbundler für moderne Webanwendungen.
 
-### Other
+127. [Rollup](https://rollupjs.org/guide/en/) - Ein Modulbundler für JavaScript-Projekte, der sich auf die Erstellung von kleinen und effizienten Bundles konzentriert.
 
-152. [animista](https://animista.net/)  
-153. [curl](https://curl.se/docs/)  
-154. [regex](https://regexr.com/)  
-155. [web apis](https://developer.mozilla.org/en-US/docs/Web/API)  
+128. [Webpack](https://webpack.js.org/) - Ein leistungsstarker statischer Modulbundler für moderne JavaScript-Anwendungen.
 
-### Testing
+129. [Awesome Vue](https://github.com/vuejs/awesome-vue) - Eine kuratierte Liste mit nützlichen Ressourcen und Tools für die Vue.js-Entwicklung.
 
-156. [cypress](https://www.cypress.io/)  
-157. [jest](https://jestjs.io/)  
-158. [percy](https://percy.io/)  
-159. [vitest](https://vitest.dev/)  
+130. [Material-UI](https://mui.com/) - Eine React-Komponentenbibliothek im Material Design-Stil.
 
----
+131. [React](https://reactjs.org/) - Eine JavaScript-Bibliothek zur Erstellung von Benutzeroberflächen, die von Facebook entwickelt wurde.
 
-## Tools
+132. [Vue.js](https://vuejs.org/) - Ein progressives JavaScript-Framework zur Entwicklung von interaktiven Benutzeroberflächen.
 
-### formatter
+133. [Angular](https://angular.io/) - Ein webbasiertes, Open-Source-App-Entwicklungsframework.
 
-160. [code formatter](https://codebeautify.org/)  
-161. [json formatter](https://jsonformatter.org/)  
+134. [Deno](https://deno.land/) - Ein moderner JavaScript-Laufzeitumgebung und Laufzeit für serverseitiges JavaScript.
 
-### maps
+135. [Materialize CSS](https://materializecss.com/) - Ein modernes responsives CSS-Framework für das Material Design.
 
-162. [openlayers](https://openlayers.org/)  
-163. [open snow map](https://www.opensnowmap.org/#map=3/0/30&b=snowmap&m=false&h=false)  
-164. [waze](https://www.waze.com/de/live-map/)
+136. [Next.js](https://nextjs.org/) - Ein React-Framework für die Erstellung von Webanwendungen und statischen Websites.
 
-### prototyping
+137. [Nuxt.js](https://nuxtjs.org/) - Ein Framework für die Erstellung von Universal-Webanwendungen mit Vue.js.
 
-165. [diagram](https://app.diagrams.net/)  
-166. [milanote](https://app.milanote.com/)  
-167. [miro](https://miro.com)  
-168. [stately](https://stately.ai)  
+138. [Svelte](https://svelte.dev/) - Ein kompilierendes JavaScript-Framework zur Erstellung von hoch performanten Webanwendungen.
 
-### fake Data
+139. [Chart.js](https://www.chartjs.org/) - Eine JavaScript-Bibliothek zur Erstellung von interaktiven Diagrammen und Diagrammen.
 
-169. [mockaroo](https://www.mockaroo.com/)  
-170. [tonic.ai](https://www.tonic.ai/)
+140. [D3.js](https://d3js.org/) - Eine JavaScript-Bibliothek zur Manipulation von Dokumenten basierend auf Daten.
+
+141. [date-fns](https://date-fns.org/) - Eine JavaScript-Bibliothek für das Arbeiten mit Datumsangaben.
+
+142. [Moment.js](https://momentjs.com/) - Eine JavaScript-Bibliothek für das Parsen, Validieren, Manipulieren und Anzeigen von Datums- und Uhrzeitangaben.
+
+143. [Stripe](https://stripe.com/) - Eine Plattform zur Zahlungsabwicklung für Online-Geschäfte.
+
+144. [PayPal](https://www.paypal.com/) - Ein Zahlungsservice für Online-Transaktionen.
+
+145. [Phaser](https://phaser.io/) - Eine HTML5-Spiele-Engine für die Entwicklung von plattformübergreifenden Spielen.
+
+146. [Theater.js](https://www.theaterjs.com/) - Eine JavaScript-Bibliothek zur Erstellung von interaktiven Animationen.
+
+147. [Three.js](https://threejs.org/) - Eine JavaScript-Bibliothek zur Erstellung und Anzeige von 3D-Grafiken im Webbrowser.
+
+148. [Markdown Guide](https://www.markdownguide.org/) - Eine umfassende Anleitung zum Schreiben von Markdown.
+
+149. [Git Emojis](https://gitmoji.dev/) - Eine Liste von Emojis für Git-Commit-Messages.
+
+150. [Skill Icons](https://iconfinder.com/) - Eine Sammlung von Symbolen und Icons für verschiedene Fähigkeiten und Kompetenzen.
+
+151. [StackEdit](https://stackedit.io/) - Ein webbasierter Markdown-Editor mit Echtzeitvorschau und kollaborativer Bearbeitung.
+
+152. [Animista](https://animista.net/) - Eine Sammlung von CSS-Animationen mit anpassbaren Parametern.
+
+153. [cURL](https://curl.se/) - Ein Befehlszeilen-Tool für die Übertragung von Daten mit URL-Syntax.
+
+154. [RegExr](https://regexr.com/) - Ein Online-Tool zur Erstellung, Bearbeitung, Ausführung und Teilen von regulären Ausdrücken.
+
+155. [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API) - Dokumentation für verschiedene Web-APIs und Schnittstellen in JavaScript.
+
+156. [Cypress](https://www.cypress.io/) - Ein End-to-End-Test-Framework für JavaScript-basierte Webanwendungen.
+
+157. [Jest](https://jestjs.io/) - Ein JavaScript-Test-Framework für das Testen von React-Anwendungen und Node.js-Projekten.
+
+158. [Percy](https://percy.io/) - Ein visuelles Test- und Feedback-Tool für Webanwendungen.
+
+159. [Vitest](https://vitejs.dev/guide/features.html) - Ein schnell und einfach zu konfigurierender Web-Dev-Server.
+
+160. [Code Formatter](https://www.freeformatter.com/javascript-formatter.html) - Ein Online-Tool zum Formatieren von JavaScript-, HTML- und CSS-Code.
+
+161. [JSON Formatter](https://jsonformatter.org/) - Ein Online-Tool zum Formatieren von JSON-Daten.
+
+162. [OpenLayers](https://openlayers.org/) - Eine JavaScript-Bibliothek für die Darstellung interaktiver Karten auf Webseiten.
+
+163. [Open Snow Map](https://www.opensnowmap.org/) - Eine kostenlose Open-Source-Kartenlösung für Wintersportler.
+
+164. [Waze](https://www.waze.com/) - Eine GPS-Navigations-App für Autofahrer mit Echtzeitverkehrsinformationen.
+
+165. [Diagram](https://www.diagram.app/) - Eine Webanwendung zum Erstellen von Diagrammen, Flussdiagrammen und Wireframes.
+
+166. [Milanote](https://www.milanote.com/) - Ein Tool zum Organisieren von Gedanken, Notizen, Ideen und Projekten visuell.
+
+167. [Miro](https://miro.com/) - Eine Kollaborationsplattform für die visuelle Zusammenarbeit in Echtzeit.
+
+168. [Stately](https://stately.ai/) - Ein Tool für das Prototyping und die Visualisierung von Zustandsmaschinen.
+
+169. [Mockaroo](https://www.mockaroo.com/) - Ein Online-Dienst zum Generieren von Testdaten in verschiedenen Formaten.
+
+170. [Tonic.ai](https://www.tonic.ai/) - Eine Plattform zur Erstellung von synthetischen Testdaten für Softwareentwicklung und Tests.
