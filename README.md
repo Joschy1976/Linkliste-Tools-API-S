@@ -166,28 +166,176 @@ Dies ist eine Liste nützlicher Links für Entwickler, die verschiedene Ressourc
  
  # Tools
 
-81- https://neumorphism.io/#c2c2c2   (button-shadows)
+81. https://neumorphism.io/#c2c2c2   (button-shadows)
 
-82- https://cssgradient.io/   (gradient-background) 
+82. https://cssgradient.io/   (gradient-background) 
 
-83- https://formspree.io/   (form-data-store)
+83. https://formspree.io/   (form-data-store)
 
-84- https://www.figma.com/  (website-desing ) 
+84. https://www.figma.com/  (website-desing ) 
 
-85- https://9elements.github.io/fancy-border-radius/#50.50.50.50--. (border-radius-design)
+85. https://9elements.github.io/fancy-border-radius/#50.50.50.50--. (border-radius-design)
 
-86-https://bennettfeely.com/clippy/  (clippy)
+86. https://bennettfeely.com/clippy/  (clippy)
 
-87-https://html-css-js.com/css/generator/transform/ (trabsform genarator)
+87. https://html-css-js.com/css/generator/transform/ (trabsform genarator)
 
-88- https://cubic-bezier.com/#.17,.67,.83,.67 (cubuc-bezier)
+88. https://cubic-bezier.com/#.17,.67,.83,.67 (cubuc-bezier)
 
-89- https://animista.net/ (animation-genarator)
+89. https://animista.net/ (animation-genarator)
 
-90- https://loading.io/  (loading-animation-icon)
+90. https://loading.io/  (loading-animation-icon)
 
-91- https://getbootstrap.com/ (boot-strap)
+91. https://getbootstrap.com/ (boot-strap)
 
-92- https://get.foundation/sites/docs/ (boot-strap)
+92. https://get.foundation/sites/docs/ (boot-strap)
 
-93- https://semantic-ui.com/ (boot-strap)
+93. https://semantic-ui.com/ (boot-strap)
+
+# Programming
+
+## Documentation
+
+### Main Ressources
+
+94. [mdn](https://developer.mozilla.org/en-US/)  
+95. [w3.org](https://www.w3.org/)  
+96. [a11yproject](https://www.a11yproject.com/)  
+97. [w3 schools](https://www.w3schools.com/)  
+98. [css tricks](https://css-tricks.com/)  
+99. [can I use](https://caniuse.com/)  
+100. [linux.org](https://www.linux.org/)  
+101. [stack overflow](https://stackoverflow.com/)  
+102. [devdocs.io](https://devdocs.io/)
+
+### Backend
+
+103. [auth0](https://auth0.com/)  
+104. [cookie parser](https://www.npmjs.com/package/cookie-parser)  
+105. [express.js](http://expressjs.com/en/resources/middleware)  
+106. [helmet](https://helmetjs.github.io/)  
+107. [jwt](https://jwt.io/)  
+108. [morgan](https://www.npmjs.com/package/morgan)  
+109. [mysql](https://www.mysql.com/)  
+110. [postgrest](https://postgrest.org/en/stable/)
+
+### CSS
+
+111. [atomic design](https://atomicdesign.bradfrost.com/table-of-contents/)
+
+112. [css reset](https://meyerweb.com/eric/tools/css/reset/)  
+113. [css reset -- modern](https://andy-bell.co.uk/a-modern-css-reset/)
+
+### \_\_frameworks
+
+114. [bootstrap](https://getbootstrap.com/)  
+115. [bulma](https://bulma.io/)  
+116. [tailwind](https://tailwindcss.com/)  
+117. [post css](https://postcss.org/)  
+
+### Git
+
+118. [git](https://git-scm.com/doc)  
+119. [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/)  
+120. [git cheatsheet](https://ndpsoftware.com/git-cheatsheet.html#loc=index;)  
+
+### Javascript
+
+121. [e5 features](es6-features.org)  
+122. [eloquent javascript](https://eloquentjavascript.net/)  
+123. [javascript.info](https://javascript.info/)  
+124. [node.js](https://nodejs.org/en)
+
+### \_\_bundlers
+
+125. [bun](https://bun.sh/)  
+126. [parcel](https://en.parceljs.org/)  
+127. [rollup](https://rollupjs.org/)  
+128. [weback](https://webpack.js.org/)
+
+### \_\_frontend-library
+
+129. [awesome vue](https://awesome-vue.js.org/)  
+130. [mui](https://mui.com/)  
+131. [react](https://react.dev/)  
+132. [vue](https://vuejs.org/)  
+
+### \_\_frameworks
+
+133. [angular](https://angular.io/)  
+134. [deno](https://fresh.deno.dev/)  
+135. [materialize](https://materializecss.com/)  
+136. [next](https://nextjs.org/)  
+137. [nuxt](https://nuxtjs.org/)  
+138. [svelte](https://svelte.dev/)  
+
+### \_\_other
+
+#### -data
+
+139. [chart](https://chartscss.org/)  
+140. [d3](https://d3js.org/)
+
+#### -date
+
+141. [date-fns](https://date-fns.org/)  
+142. [moment](https://momentjs.com/)
+
+#### -payment
+
+143. [stripe](https://stripe.com/docs/js)  
+144. [paypal](https://developer.paypal.com/home/)
+
+#### -other
+
+145. [phaser](https://phaser.io/)  
+146. [theater](https://www.theatrejs.com/)  
+147. [three](https://threejs.org)
+
+### Markdown
+
+148. [markdown guide](https://www.markdownguide.org)  
+149. [git emojis](https://gist.github.com/rxaviers/7360908)  
+150. [skill icons](https://github.com/tandpfun/skill-icons)  
+151. [stackedit](https://stackedit.io/)  
+
+### Other
+
+152. [animista](https://animista.net/)  
+153. [curl](https://curl.se/docs/)  
+154. [regex](https://regexr.com/)  
+155. [web apis](https://developer.mozilla.org/en-US/docs/Web/API)  
+
+### Testing
+
+156. [cypress](https://www.cypress.io/)  
+157. [jest](https://jestjs.io/)  
+158. [percy](https://percy.io/)  
+159. [vitest](https://vitest.dev/)  
+
+---
+
+## Tools
+
+### formatter
+
+160. [code formatter](https://codebeautify.org/)  
+161. [json formatter](https://jsonformatter.org/)  
+
+### maps
+
+162. [openlayers](https://openlayers.org/)  
+163. [open snow map](https://www.opensnowmap.org/#map=3/0/30&b=snowmap&m=false&h=false)  
+164. [waze](https://www.waze.com/de/live-map/)
+
+### prototyping
+
+165. [diagram](https://app.diagrams.net/)  
+166. [milanote](https://app.milanote.com/)  
+167. [miro](https://miro.com)  
+168. [stately](https://stately.ai)  
+
+### fake Data
+
+169. [mockaroo](https://www.mockaroo.com/)  
+170. [tonic.ai](https://www.tonic.ai/)
